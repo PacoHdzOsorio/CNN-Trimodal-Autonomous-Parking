@@ -35,9 +35,6 @@ La investigación aborda la identificación de espacios seguros para estacionami
 - Entornos donde un vehículo autónomo necesita seleccionar una ubicación segura para detenerse.
 
 El sistema se plantea como un componente de percepción para un escenario de **estacionamiento autónomo de emergencia**, donde el vehículo debe ser capaz de identificar un espacio adecuado para detenerse cuando el conductor no puede continuar controlándolo.
-
-> **Nota:** Este proyecto corresponde a un prototipo de investigación y sus resultados experimentales. No representa un sistema de conducción autónoma listo para producción.
-
 ---
 
 ## Arquitectura del sistema
